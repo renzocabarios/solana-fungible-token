@@ -1,1 +1,1 @@
-# solana-fungile-token
+# solana-fungible-token
